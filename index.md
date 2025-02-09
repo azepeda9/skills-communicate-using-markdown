@@ -2,4 +2,5 @@
 # <h6>Wrote a message using an h1 header</h6>
 ![Image of an animated turtle](https://img.freepik.com/premium-vector/vector-illustration-cute-cartoon-turtle-white-background_122784-8247.jpg)
 
-var myVar = "Hi this is a code example!";
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
